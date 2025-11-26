@@ -1,0 +1,15 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --insta-bg: #fafafa;
+  --insta-border: #dbdbdb;
+}
+.dark {
+  --insta-bg: #000;
+  --insta-border: #222;
+}
+body {
+  background-color: var(--insta-bg);
+}
