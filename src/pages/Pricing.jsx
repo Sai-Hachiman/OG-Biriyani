@@ -151,7 +151,7 @@ export default function Pricing() {
           className="absolute top-1/2 left-1/2 -translate-x-1/2 text-center"
         >
           <h1 className="text-6xl font-bold text-red-600 drop-shadow-xl">
-            OG Biriyani Online Order Coming Soon
+            
           </h1>
           
         </motion.div>
